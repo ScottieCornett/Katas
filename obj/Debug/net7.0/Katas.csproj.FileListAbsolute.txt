@@ -1,0 +1,15 @@
+C:\Users\Scottie\source\repos\Katas\bin\Debug\net7.0\Katas.exe
+C:\Users\Scottie\source\repos\Katas\bin\Debug\net7.0\Katas.deps.json
+C:\Users\Scottie\source\repos\Katas\bin\Debug\net7.0\Katas.runtimeconfig.json
+C:\Users\Scottie\source\repos\Katas\bin\Debug\net7.0\Katas.dll
+C:\Users\Scottie\source\repos\Katas\bin\Debug\net7.0\Katas.pdb
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\Katas.csproj.AssemblyReference.cache
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\Katas.AssemblyInfoInputs.cache
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\Katas.AssemblyInfo.cs
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\Katas.csproj.CoreCompileInputs.cache
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\Katas.dll
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\refint\Katas.dll
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\Katas.pdb
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\Katas.genruntimeconfig.cache
+C:\Users\Scottie\source\repos\Katas\obj\Debug\net7.0\ref\Katas.dll
