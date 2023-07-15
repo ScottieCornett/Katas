@@ -18,6 +18,7 @@ namespace Katas
 
                 while (i < str.Length)
                 {
+                  
                     if (str[i] == '-' || str[i] == '_')
                     {
                         char newChar = char.ToUpper(str[i + 1]);
