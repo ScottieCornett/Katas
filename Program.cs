@@ -1,17 +1,18 @@
 ﻿using Katas;
 
-string str = CamelKata.GetCamelCase("the-stealth-warrior");
-string jaden = JadenCase.ToJadenCase("this is the example string");
-int count = DuplicateCount.DuplicateCounter("aaadfdfdfeafdppp123455445");
-int[] a = { 2, 3, 5, 6, 7, 9, 11 };
-SortOdds.SortTheOdds(a);
-foreach (var b in a)
-{
-    Console.Write(b);
-}
+string greeting = Welcome.Greet("dut%33221");
+Console.WriteLine(greeting);
 
-int number = Multiplier.Multiply(3);
-Console.WriteLine(count);
-Console.WriteLine(str);
-Console.WriteLine(jaden);
-Console.WriteLine(number);
+int area = MathCheck.AreaOrPerimeter(3, 3);
+int perimeter = MathCheck.AreaOrPerimeter(3, 4);
+
+int[] nums = new int[] { 7, 1};
+int[] numbers = SortArray.ArraySorter(nums);
+
+foreach (var a in numbers)
+{
+    Console.Write(a);
+}
+Console.WriteLine();
+Console.WriteLine(area);
+Console.WriteLine(perimeter);
