@@ -13,6 +13,9 @@ foreach (var a in numbers)
 {
     Console.Write(a);
 }
+
+string str = Backwords.SpinWords("This is a sentence");
+Console.WriteLine(str);
 Console.WriteLine();
 Console.WriteLine(area);
 Console.WriteLine(perimeter);
